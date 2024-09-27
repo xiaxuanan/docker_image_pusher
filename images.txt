@@ -1,4 +1,3 @@
-registry.k8s.io/ingress-nginx/controller:v1.10.1
 grafana/grafana：10.0.9
 prom/node-exporter：v1.81
 prom/prometheus：v2.53.0
